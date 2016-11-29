@@ -17,6 +17,8 @@ If you are interested in what our 3D completed models look like, please have a l
 
 ### This project is a collaboration with LMU university, Ancient History Department, Munich.
 [![LMU logo](http://www.rt-safe.com/images/RTsafe/news/LMU_logo.jpg)](http://www.en.ag.geschichte.uni-muenchen.de/chairs/chair_radner/research_radner/peshdar-plain-project/index.html)
+[![A. von Humboldt logo](https://www.humboldt-foundation.de/dmrsc/img/header_logo_klein.gif)](https://www.humboldt-foundation.de/web/home.html)
+
 [![UCL logo](https://micropasts-other.s3.amazonaws.com/other/UCL_logo_wide.png)](http://ucl.ac.uk/archaeology)
 
 
