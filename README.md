@@ -11,7 +11,7 @@ This application has three files:
 
 Funded Partners
 ===============
-[![LMU logo](http://91.206.61.24/en/bilder/LMU_logo.jpg)](http://www.en.ag.geschichte.uni-muenchen.de/chairs/chair_radner/research_radner/peshdar-plain-project/index.html)
+[![LMU logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/LMU_Muenchen_Logo.svg/200px-LMU_Muenchen_Logo.svg.png)](http://www.en.ag.geschichte.uni-muenchen.de/chairs/chair_radner/research_radner/peshdar-plain-project/index.html)
 [![A. von Humboldt logo](http://www.germany.info/contentblob/3500782/Hauptbereichsbild/2215408/AvHlogo.jpg)](https://www.humboldt-foundation.de/web/home.html)
 
 ![UCL](http://crowdsourced.micropasts.org/static/img/black.jpg)
