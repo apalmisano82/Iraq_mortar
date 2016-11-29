@@ -16,8 +16,8 @@ ignore irrelevant background information.
 If you are interested in what our 3D completed models look like, please have a look [at our Sketchfab profile](https://sketchfab.com/micropasts).
 
 ### This project is a collaboration with LMU university, Ancient History Department, Munich.
-[![LMU logo](http://www.rt-safe.com/images/RTsafe/news/LMU_logo.jpg)](http://www.en.ag.geschichte.uni-muenchen.de/chairs/chair_radner/research_radner/peshdar-plain-project/index.html)
-[![A. von Humboldt logo](https://www.humboldt-foundation.de/dmrsc/img/header_logo_klein.gif)](https://www.humboldt-foundation.de/web/home.html)
+[![LMU logo](http://91.206.61.24/en/bilder/LMU_logo.jpg)](http://www.en.ag.geschichte.uni-muenchen.de/chairs/chair_radner/research_radner/peshdar-plain-project/index.html)
+[![A. von Humboldt logo](http://www.germany.info/contentblob/3500782/Hauptbereichsbild/2215408/AvHlogo.jpg)](https://www.humboldt-foundation.de/web/home.html)
 
 [![UCL logo](https://micropasts-other.s3.amazonaws.com/other/UCL_logo_wide.png)](http://ucl.ac.uk/archaeology)
 
