@@ -6,11 +6,14 @@ This application has three files:
 *  template.html: the view for every task and deal with the data of the answers.
 *  tutorial.html: a simple tutorial for the volunteers.
 
-![alt screenshot](http://micropasts.org/wp-content/uploads/2016/05/boxME2-e1464338644182.jpg)
+![alt screenshot](https://github.com/apalmisano82/Iraq_mortar_photos/blob/master/IMG_3675.jpg)
 
 
 Funded Partners
 ===============
+[![LMU logo](http://91.206.61.24/en/bilder/LMU_logo.jpg)](http://www.en.ag.geschichte.uni-muenchen.de/chairs/chair_radner/research_radner/peshdar-plain-project/index.html)
+[![A. von Humboldt logo](http://www.germany.info/contentblob/3500782/Hauptbereichsbild/2215408/AvHlogo.jpg)](https://www.humboldt-foundation.de/web/home.html)
+
 ![UCL](http://crowdsourced.micropasts.org/static/img/black.jpg)
 
 Testing the application
