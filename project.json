@@ -1,7 +1,7 @@
 {
-    "name": "Photo-masking an Egyptian box",
-    "short_name": "MuseoEgizio1",
-    "thumbnail": "http://micropasts.org/wp-content/uploads/2016/05/boxME2.jpg",
-    "description": "Photo-masking an Egyptian box from Museo Egizio",
+    "name": "Photo-masking an Iraq mortar",
+    "short_name": "IraqMortar",
+    "thumbnail": "https://github.com/apalmisano82/Iraq_mortar_photos/blob/master/IMG_3650.jpg",
+    "description": "Photo-masking a Mortar from Iraq",
     "question": "Draw the outline/holes of the object you see in the picture"
 }
