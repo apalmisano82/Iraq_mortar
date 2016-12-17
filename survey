@@ -168,7 +168,7 @@ a.ol-full-screen-true:after {
 
 <!-- Survey code -->
 
-<div id="survey" class="modal fade" data-backdrop="static">
+<!-- <div id="survey" class="modal fade" data-backdrop="static">
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
@@ -662,5 +662,5 @@ pybossa.presentTask(function(task, deferred) {
         
 });
 
-pybossa.run('Iraq_mortar');
+pybossa.run('IraqMortar');
 </script>
