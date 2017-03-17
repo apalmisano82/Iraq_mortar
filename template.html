@@ -97,7 +97,7 @@ a.ol-full-screen-true:after {
         		<a class="btn btn-info btn-sm" id="imgLink" target="_blank" data-toggle="tooltip" data-placement="top" title="Opens in a new window" href="http://community.micropasts.org/category/crowdsourcing-support"><i class="glyphicon glyphicon-book"></i> Community Help</a>
         </div>
         
-        <h1 id="step1">Disegna il contorno dell'oggetto che vedi nella foto</h1>
+        <h1 id="step1">Draw the outline of the object you see in the photo</h1>
         <div class="btn-group">
             <button id="status" type="button" class="btn btn-default btn-type disabled" name="loading" value="loading">Loading photo</button>
             <button id="outline" type="button" class="btn btn-default btn-type active" name="outline" value="outline">Outline</button>
@@ -203,43 +203,33 @@ a.ol-full-screen-true:after {
             </div>
             <div id="0" class="modal-body" style="display:none">
                 <p>
-                Questa applicazione e' molto semplice (ma non funziona ancora su smartphone e tablet). La piattaforma carichera' la fotografia di un manufatto archeologico. Una volta che l'immagine e' stata caricata, ti verra' chiesto di cliccare creando un poligono che definisca il contorno dell'oggetto. Clicca ogni volta desideri aggiungere un punto lungo il contorno del poligono e l'ultimo punto chiudera' il poligono ricongiungendosi al punto di partenza. Piu' in generale, vorremmo che disegnassi il poligono rimanendo leggermente all'interno del contorno dell'oggetto. Questo consente di escludere del tutto i pixel relativi allo sfondo anziche' all'oggetto. I pixel relativi all'oggetto persi in questo modo verranno recuperati disegnando il contorno di altre foto.
-                </p>
-
-                <p>
                 This application is very simple (but it does not yet work on mobile devices). When you participate, the platform will load a photograph of an archaeological artefact. Once the image has been loaded, you will be asked to click or tap around the edge of the artefact in order to define a polygon outline. Click once every time you wish to add a point along the edge of the polygon and your final point will snap back onto the one you started with. You can draw one polygon around the entire object or instead draw a series of overlapping polygons if you prefer. In general, we would like you to draw your polygon(s) very slightly inside the actual edge of the artefact. This is because we don't want background pixels near this edge to create a fuzzy border, and we don't need to worry so much about losing a bit of the artefact edge, as the missing few pixels are very likely to appear in one of the other photographs (at least 40 overlapping photographs are likely to exist for each object to support the construction of the 3D model). An example of a successful outline is shown below:
                 </p>
                 <img src="http://micropasts.org/wp-content/uploads/2015/03/PEF_Tutorial.png" width="100%" class="img-polaroid" alt="An example of an artefact photograph whose outline has been defined" />
             </div>
             <div id="1" class="modal-body" style="display:none">
                 <p> 
-                Come usare la barra degli strumenti relativa all'applicazione di photo-masking:
+                How to use the buttons relating to the photo-masking application:
 
                 </p>
                 <img src="http://micropasts.org/wp-content/uploads/2014/11/Photomasking_Toolbar.png" width="100%" alt="Photo-masking Toolbar" />
                 <p>
-                <p><strong>Outline</strong>: Questa opzione e' selezionata di default e indica che le azioni che seguiranno sono relative alla realizzazione di un poligono lungo il contorno dell'oggetto.</p>
-                <p><strong>Holes</strong>: Questa opzione solitamente non e' disponibile, ma apparira' ogni qual volta l'oggetto di cui si vuole marcare il contorno abbia dei 'buchi', come nel caso di un braccialetto. In questi casi lo sfondo deve essere escluso anche all'interno del 'buco' stesso. Clicca su 'Holes' prima di cominciare a disegnare o modificare un buco allinterno dell'oggetto.</p>
-                <p><strong>Draw</strong>: Questa opzione e' selezionata di default, all'inizio di ogni task. Clicca su 'Draw' ogni volta che vuoi cominciare a tracciare il contorno di un oggetto. Una volta completato il poligono di contorno, la linea blu che lo delinea diventera' gialla.</p>
-                <p><strong>Edit</strong>: Questa opzione diventa disponibile quando almeno un poligono e' stato completato. Dopo aver cliccato su 'Edit', scegli il poligono che desideri modificare cliccando una volta a qualsiasi punto del poligono. La linea del poligono tornera' blu e potra' essere modificata. </p>
-                <p><strong>Remove all polygons</strong>: Utilizza questa opzione se desideri ricominciare da capo. Cliccando su questa opzione rimuoverai tutti i poligoni precedentemente tracciati.</p>
-                <p> <strong>Save the drawings</strong>: Clicca su questa opzione quando una volta completato il photo-masking dell'oggetto - salvera' il tuo lavoro come completato.</p>
+                <p><strong>Outline</strong>: This option is selected by default and indicates the actions that relate to the drawing of a polygon around the object.</p>
+                <p><strong>Draw</strong>: This option is selected by default at the beginning of every task. Clink on 'Draw' every time you want to start drawing the outline of an object. Once you have completed the polygon, the outline around the object will become yellow.</p>
+                <p><strong>Edit</strong>: This option becomes possible once the polygon has been drawn. Once you have clicked on 'Edit', choose the polygon that you wish to modify by clicking once on any part of the polygon. The line of the polygon will become blue, indicating that it will be possible to modify it. </p>
+                <p><strong>Remove all polygons</strong>: Use  this option if you want to start from the beginning. By clicking on this option you will remove all the polygons you have drawn before.</p>
+                <p> <strong>Save the drawings</strong>: Click on this option every time you have finished drawing an outline - it will save your work.</p>
                 </p>
                 
             </div>    
 
             <div id="2" class="modal-body" style="display:none">  
                 <p>
-                Cliccando sull'opzione "Tutorial", avrai la possibilita' di rileggere queste istruzioni durante il completamento del lavoro di photo-masking. 
-
                 During the task, you can always return to this tutorial via the "Tutorial" button.
                 </p>
                 
                 <p>
-                Un esempio di <a href="http://micropasts.org/3D">modello 3D</a> completato.    
-                </p>
-                <p>
-                Per saperne di piu' sul progetto, per porre domande, suggerire modifiche o fornire nuove idee e spunti, ti invitiamo a registrarti sul nostro <a href="http://community.micropasts.org" title="Community forum">community forum</a>.
+                An example of <a href="http://micropasts.org/3D">a completed 3D model</a>.    
                 </p>
             </div>
 
